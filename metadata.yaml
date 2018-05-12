@@ -1,0 +1,30 @@
+_repo: Die-Phantasie-in-der-Malerei_38158
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38158-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Liebermann, Max
+    birthdate: 1847
+    deathdate: 1935
+    gutenberg_agent_id: '39271'
+    url: http://www.gutenberg.org/2009/agents/39271
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2011-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38158'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Painting'
+- !lcc 'N'
+- !lcsh 'Aesthetics'
+tableOfContents: Vorwort zur zweiten Auflage -- Einleitung -- Die Phantasie in der
+  Malerei -- Empfindung und Erfindung in der Malerei -- Phantasie und Technik.
+title: Die Phantasie in der Malerei
+url: http://www.gutenberg.org/ebooks/38158
